@@ -1,2 +1,2 @@
-# game-pro
-poker ai 
+# coding train
+coding train
