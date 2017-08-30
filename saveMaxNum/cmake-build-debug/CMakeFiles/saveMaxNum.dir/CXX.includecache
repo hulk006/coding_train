@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yh/CLionProjects/saveMaxNum/main.cpp
+string.h
+-
+iostream
+-
+math.h
+-
+algorithm
+-
+sstream
+-
+map
+-
+

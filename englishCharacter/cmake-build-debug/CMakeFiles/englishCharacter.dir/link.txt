@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/englishCharacter.dir/main.cpp.o  -o englishCharacter 

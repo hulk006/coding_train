@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yh/CLionProjects/telephonenumber_fenshen/main.cpp
+iostream
+-
+vector
+-
+string.h
+/home/yh/CLionProjects/telephonenumber_fenshen/string.h
+algorithm
+-
+algorithm
+-
+iostream
+-
+string
+-
+math.h
+-
+cstring
+-
+

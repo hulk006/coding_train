@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/saveMaxNum.dir/main.cpp.o  -o saveMaxNum 

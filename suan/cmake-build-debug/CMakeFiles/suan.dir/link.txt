@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/suan.dir/main.cpp.o  -o suan 

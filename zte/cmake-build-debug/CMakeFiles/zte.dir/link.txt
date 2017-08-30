@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/zte.dir/main.cpp.o  -o zte 

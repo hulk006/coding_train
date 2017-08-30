@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/DP_daishu_guohe.dir/main.cpp.o  -o DP_daishu_guohe 

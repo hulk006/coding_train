@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/split_filename.dir/main.cpp.o  -o split_filename 
